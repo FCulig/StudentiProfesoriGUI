@@ -1,0 +1,25 @@
+1
+P5567
+Janko
+Petroviæ
+viši predavaè
+2
+P9878
+Ivica
+Župan
+profesor visoke škole
+3
+P987
+Darko
+Miliæ
+predavaè
+4
+P661
+Danica
+Despot
+predavaè
+5
+P5412
+Slavoljub
+Kovaè
+Profesor
